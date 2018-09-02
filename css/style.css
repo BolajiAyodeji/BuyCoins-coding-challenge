@@ -1,0 +1,31 @@
+/* Add your CSS here */
+
+body,
+button {
+    font-family: 'Karla', sans-serif;
+}
+
+button[data-action="start"] {
+  background-color: lightgreen;
+  border-radius: 7px;
+}
+
+button[data-action="delete"] {
+  background-color: palevioletred;
+  border-radius: 7px;
+}
+
+section {
+  padding: 20px;
+}
+
+article {
+  background-color: #f2f5f8;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border: 1px solid #ececec;
+  padding: 3px;
+  margin: 30px 12px 0px;
+}
+article h2{
+    font-size: 1em;
+}
