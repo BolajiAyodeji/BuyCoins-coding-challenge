@@ -2,8 +2,8 @@
 
 body,
 button {
-    font-family: Karla;
-    margin: 10px;
+  font-family: Karla;
+  margin: 10px;
 }
 
 button[data-action="start"] {
@@ -26,16 +26,15 @@ section {
 
 article {
   background-color: #f2f5f8;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border: 1px solid #ececec;
   border-radius: 2px;
   padding-bottom: 10px;
-  
 }
-article h2{
+article h2 {
   font-size: 1.3em;
   font-weight: bold;
 }
- p{
+p {
   font-size: 1.2em;
 }
