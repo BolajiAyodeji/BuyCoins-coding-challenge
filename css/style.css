@@ -8,12 +8,16 @@ button {
 
 button[data-action="start"] {
   background-color: lightgreen;
-  border-radius: 7px;
+  border: 0px;
+  border-radius: 3px;
+  padding: 4px 4px;
 }
 
 button[data-action="delete"] {
   background-color: palevioletred;
-  border-radius: 7px;
+  border: 0px;
+  border-radius: 3px;
+  padding: 4px 4px;
 }
 
 section {
@@ -29,5 +33,6 @@ article {
   
 }
 article h2{
-    font-size: 1em;
+  font-size: 1em;
+  font-weight: 5px;
 }
