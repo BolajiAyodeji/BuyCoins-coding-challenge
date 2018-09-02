@@ -29,7 +29,7 @@ article {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   border: 1px solid #ececec;
   border-radius: 2px;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
   
 }
 article h2{
@@ -37,5 +37,5 @@ article h2{
   font-weight: bold;
 }
 article h2 p{
-  font-weight: normal;
+  font-weight: 100;
 }
