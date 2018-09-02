@@ -3,7 +3,6 @@
 body,
 button {
   font-family: Karla;
-  margin: 10px;
 }
 
 button[data-action="start"] {
@@ -29,7 +28,7 @@ article {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border: 1px solid #ececec;
   border-radius: 2px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 article h2 {
   font-size: 1.3em;
